@@ -1,7 +1,7 @@
 # translate-json-keys
 
 ## source
-```json
+```
 {
   default: 3,
   opt2: {
@@ -42,7 +42,7 @@
 }
 ```
 ## Matrix
-```json
+```
 {
   opt1: 'Stocks',
   opt2: 'Bonds',
